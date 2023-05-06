@@ -1,2 +1,6 @@
 # Cube-Image-Slider
 Using javascript...
+
+There is a problem of up and Down Arrow that are not working, As I can't fix the picture to the upper and lower sides of the cube...
+
+![Cube_Image_Slider](https://user-images.githubusercontent.com/102974292/236639053-43d39ee0-d476-4f51-94d5-e8edce115645.png)
